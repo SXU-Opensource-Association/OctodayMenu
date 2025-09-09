@@ -13,5 +13,8 @@
 
 ## 开发流程
 
-详见 [开发流程](DEV-FLOW.md)
+详见 [开发流程](https://www.yuque.com/jinyiels/octoday_menu/yg5peag1vymvximk/)
 
+## 点子投放
+
+可以在[表单](https://github.com/SXU-Opensource-Association/OctodayMenu/issues)中提交。
