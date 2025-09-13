@@ -1,0 +1,2463 @@
+{
+    "code": 20000,
+    "msg": "success",
+    "data": {
+        "items": [
+            {
+                "id": 237006,
+                "title": "【令二】22号 富莊阁",
+                "thumb": "image/20241128/e52292fb-9a0f-42ac-bc0c-5667cfec28b5.png",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 331,
+                "rate": 5,
+                "time": 45,
+                "dist": 564.59,
+                "open_status": 2,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "19:30"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 985079,
+                        "title": "整只鸭",
+                        "thumb": "image/20241128/ef374c0d-8646-4e16-8712-20487fb2259c.png",
+                        "start_num": 1,
+                        "price": 28,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 28,
+                        "unit": ""
+                    },
+                    {
+                        "id": 985078,
+                        "title": "整只鸭加饭",
+                        "thumb": "image/20241128/ef374c0d-8646-4e16-8712-20487fb2259c.png",
+                        "start_num": 1,
+                        "price": 28.9,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 28.9,
+                        "unit": ""
+                    },
+                    {
+                        "id": 982358,
+                        "title": "鸭头",
+                        "thumb": "image/20250311/3137e44a-bb8f-4e4f-91d4-5dd674564bda.jpg",
+                        "start_num": 1,
+                        "price": 0,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 0,
+                        "unit": ""
+                    },
+                    {
+                        "id": 977319,
+                        "title": "小份烤鸭拌饭",
+                        "thumb": "image/20241128/ef374c0d-8646-4e16-8712-20487fb2259c.png",
+                        "start_num": 1,
+                        "price": 12,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12,
+                        "unit": ""
+                    },
+                    {
+                        "id": 977318,
+                        "title": "大份烤鸭拌饭",
+                        "thumb": "image/20241128/ef374c0d-8646-4e16-8712-20487fb2259c.png",
+                        "start_num": 1,
+                        "price": 15,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 15,
+                        "unit": ""
+                    }
+                ],
+                "package_price": 1,
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 1,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:00",
+                        "e": "19:30"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": 241.1,
+                "store": {},
+                "m_capita": 17,
+                "m_unit": 17
+            },
+            {
+                "id": 237450,
+                "title": "【令二】1号付广宇大碗鸡肉饭",
+                "thumb": "image/20250905/ec160e45-eeb3-430b-a8ca-63cd36790245.png",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 70,
+                "rate": 5,
+                "time": 45,
+                "dist": 550.45,
+                "open_status": 2,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:30",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 992748,
+                        "title": "肉沫茄子饭",
+                        "thumb": "image/20250215/49613393-d457-42d0-8093-d68910407b08.jpeg",
+                        "start_num": 1,
+                        "price": 9.9,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 9.9,
+                        "unit": ""
+                    },
+                    {
+                        "id": 992743,
+                        "title": "招牌大碗鸡肉饭",
+                        "thumb": "image/20240529/ca75f334-4567-4b51-b948-801fc8b096b7.png",
+                        "start_num": 1,
+                        "price": 11.9,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 11.9,
+                        "unit": ""
+                    },
+                    {
+                        "id": 992742,
+                        "title": "大碗龙虾鸡肉饭",
+                        "thumb": "image/20250905/6e941780-64b1-43e3-b26d-8a428d6fec4c.png",
+                        "start_num": 1,
+                        "price": 14.9,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 14.9,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 0,
+                "is_scheduled": 1,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:30",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 37,
+                    "title": "上新",
+                    "sort": 0,
+                    "bg_color": "rgba(28, 187, 180, 1)",
+                    "color": "#000",
+                    "effective_time": 48,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": 195.6,
+                "store": {},
+                "m_capita": 13,
+                "m_unit": 13
+            },
+            {
+                "id": 236773,
+                "title": "【令二】14号奉天朱家小馆羊杂面",
+                "thumb": "image/20241018/980c1b3c-2ef8-4db7-8c1b-55907d5a8521.jpg",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 108,
+                "rate": 5,
+                "time": 55,
+                "dist": 584.79,
+                "open_status": 2,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 969004,
+                        "title": "小馆牛肉面",
+                        "thumb": "image/20241009/02c979e6-2955-43cd-b2bb-651e02f603b0.jpg",
+                        "start_num": 1,
+                        "price": 14,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 14,
+                        "unit": ""
+                    },
+                    {
+                        "id": 969001,
+                        "title": "小馆羊杂面",
+                        "thumb": "image/20241009/beb1cc1a-68ff-4083-81cf-f3fc5503ce7b.jpg",
+                        "start_num": 1,
+                        "price": 12,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12,
+                        "unit": ""
+                    },
+                    {
+                        "id": 969000,
+                        "title": "小馆老坛酸菜汤面",
+                        "thumb": "image/20241018/66701c59-f93c-4662-afb3-94b52b30a42b.jpg",
+                        "start_num": 1,
+                        "price": 9,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 9,
+                        "unit": ""
+                    },
+                    {
+                        "id": 968996,
+                        "title": "小馆辣肉拌面",
+                        "thumb": "image/20241009/394986ad-ab1a-4b95-a36a-234813778c08.jpg",
+                        "start_num": 1,
+                        "price": 12,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12,
+                        "unit": ""
+                    },
+                    {
+                        "id": 968920,
+                        "title": "小馆招牌炸酱面",
+                        "thumb": "image/20241009/0d67f548-a6ff-4aa6-b04b-eb1e7879f1d7.jpg",
+                        "start_num": 1,
+                        "price": 10,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 10,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 1,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": 166.1,
+                "store": {},
+                "m_capita": 15,
+                "m_unit": 13
+            },
+            {
+                "id": 237444,
+                "title": "【令二】3号小锅猪肚鸡",
+                "thumb": "image/20250902/4284cb12-0363-4b6c-a8aa-b834c44473aa.png",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 85,
+                "rate": 5,
+                "time": 45,
+                "dist": 553.48,
+                "open_status": 2,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:00"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 992510,
+                        "title": "鲜香香辣鱼",
+                        "thumb": "image/20231021/b67de529-cf26-4196-a2aa-6380f916b9ed.jpg",
+                        "start_num": 1,
+                        "price": 15,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 15,
+                        "unit": ""
+                    },
+                    {
+                        "id": 992497,
+                        "title": "番茄钵钵鸡",
+                        "thumb": "image/20250902/baff4d0a-39fd-45dd-88bc-df648a19a0d5.png",
+                        "start_num": 1,
+                        "price": 13,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 13,
+                        "unit": ""
+                    },
+                    {
+                        "id": 992486,
+                        "title": "香辣猪肚小酥肉",
+                        "thumb": "image/20231208/a4319a4c-3131-4634-a0dc-b4b7d2b129bf.jpg",
+                        "start_num": 1,
+                        "price": 14,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 14,
+                        "unit": ""
+                    },
+                    {
+                        "id": 992475,
+                        "title": "招牌原味猪肚鸡",
+                        "thumb": "image/20250902/634f2500-c748-419f-b454-3fb3b73175b5.png",
+                        "start_num": 1,
+                        "price": 14,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 14,
+                        "unit": ""
+                    },
+                    {
+                        "id": 992470,
+                        "title": "爆款酸辣猪肚鸡",
+                        "thumb": "image/20250902/634f2500-c748-419f-b454-3fb3b73175b5.png",
+                        "start_num": 1,
+                        "price": 13,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 13,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 1,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:00"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": 156.1,
+                "store": {},
+                "m_capita": 16,
+                "m_unit": 15
+            },
+            {
+                "id": 236719,
+                "title": "【令二】不基不堡",
+                "thumb": "image/20240928/e636b3d5-8513-4d66-a2ec-2b36cef60af7.png",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 78,
+                "rate": 5,
+                "time": 45,
+                "dist": 564.59,
+                "open_status": 2,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "20:00"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 990176,
+                        "title": "香辣鸡腿(6个)",
+                        "thumb": "image/20240923/b47ea6c5-0d94-4cf9-b22e-4f82b8ea33f8.png",
+                        "start_num": 1,
+                        "price": 12,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12,
+                        "unit": ""
+                    },
+                    {
+                        "id": 966689,
+                        "title": "酥底水果披萨船",
+                        "thumb": "image/20240923/67fe0024-e5e1-48e8-9b97-0fae7f11e0e5.png",
+                        "start_num": 1,
+                        "price": 17,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 17,
+                        "unit": ""
+                    },
+                    {
+                        "id": 966692,
+                        "title": "酥底牛肉披萨船",
+                        "thumb": "image/20240923/dfc097c8-8d97-4d6f-9615-6a4f3b97bdcb.png",
+                        "start_num": 1,
+                        "price": 17,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 17,
+                        "unit": ""
+                    },
+                    {
+                        "id": 966723,
+                        "title": "小食拼盘",
+                        "thumb": "image/20240923/28e92a35-8d70-4bb1-99f4-05bd042c1449.png",
+                        "start_num": 1,
+                        "price": 26,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 26,
+                        "unit": ""
+                    },
+                    {
+                        "id": 966724,
+                        "title": "小食套餐A",
+                        "thumb": "image/20240923/b416a074-1899-4737-8ed1-0527a9c48f62.jpg",
+                        "start_num": 1,
+                        "price": 23,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 23,
+                        "unit": ""
+                    }
+                ],
+                "package_price": 1,
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 1,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:00",
+                        "e": "20:00"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": 151.1,
+                "store": {},
+                "m_capita": 25,
+                "m_unit": 21
+            },
+            {
+                "id": 237082,
+                "title": "【令二】4号莫小朵小锅焖面",
+                "thumb": "image/20250305/00c936d6-3b18-4b6f-a836-f53376a231d5.jpg",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 63,
+                "rate": 5,
+                "time": 45,
+                "dist": 553.48,
+                "open_status": 2,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:00"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 980574,
+                        "title": "小酥肉薯条/茄条焖面",
+                        "thumb": "image/20250304/fc997334-587f-4d22-96a8-d626cba670b8.jpg",
+                        "start_num": 1,
+                        "price": 13,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 13,
+                        "unit": ""
+                    },
+                    {
+                        "id": 980571,
+                        "title": "大块排骨",
+                        "thumb": "image/20250304/91234f17-b3ed-4d71-81e4-7b5f168a6671.jpg",
+                        "start_num": 1,
+                        "price": 16,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 16,
+                        "unit": ""
+                    },
+                    {
+                        "id": 980568,
+                        "title": "地三鲜",
+                        "thumb": "image/20250304/7602e44e-50cd-4fc2-b3e6-cdfa326f65b3.jpg",
+                        "start_num": 1,
+                        "price": 11,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 11,
+                        "unit": ""
+                    },
+                    {
+                        "id": 980564,
+                        "title": "时蔬焖面",
+                        "thumb": "image/20250304/768636b0-99c5-4cf3-ac7e-f7e76ad6a009.jpg",
+                        "start_num": 1,
+                        "price": 9.9,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 9.9,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 1,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:00"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": 148.1,
+                "store": {},
+                "m_capita": 15,
+                "m_unit": 15
+            },
+            {
+                "id": 237029,
+                "title": "【文化】七杯茶拿铁",
+                "thumb": "image/20250217/3407eb7c-ea61-474f-ba69-8c7b63e3b9a3.jpeg",
+                "start_price": 6,
+                "delivery_price": 1.2,
+                "m_sales": 39,
+                "rate": 5,
+                "time": 45,
+                "dist": 572.67,
+                "open_status": 2,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "20:00"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 978866,
+                        "title": "椰皇厚乳拿铁",
+                        "thumb": "image/20250218/632e9de3-e34f-4bf1-bf00-4e7dfb61b00b.jpeg",
+                        "start_num": 1,
+                        "price": 10,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 10,
+                        "unit": ""
+                    },
+                    {
+                        "id": 978856,
+                        "title": "冰萃草莓酸奶",
+                        "thumb": "image/20250218/358e6f52-71b1-4e74-ad32-88cc3662df3b.jpeg",
+                        "start_num": 1,
+                        "price": 8,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 8,
+                        "unit": ""
+                    },
+                    {
+                        "id": 978852,
+                        "title": "云香茉莉牛乳茶",
+                        "thumb": "image/20250218/fcce9995-045f-45f4-b028-79df034a9efc.jpg",
+                        "start_num": 1,
+                        "price": 12,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12,
+                        "unit": ""
+                    },
+                    {
+                        "id": 978831,
+                        "title": "招牌珍珠奶茶",
+                        "thumb": "image/20250218/48739675-30f4-4eaf-9900-c800d06e33b3.png",
+                        "start_num": 1,
+                        "price": 6,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 6,
+                        "unit": ""
+                    },
+                    {
+                        "id": 978810,
+                        "title": "蜂蜜柚子茶",
+                        "thumb": "image/20250218/5b6a28a3-c1ce-458a-9911-17cc135f1d31.jpeg",
+                        "start_num": 1,
+                        "price": 6,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 6,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "activity_list": [
+                    {
+                        "id": 1515,
+                        "title": "满减优惠",
+                        "types": 2,
+                        "start_at": 1757088000,
+                        "end_at": 1761926399,
+                        "status": 1,
+                        "full_reduction": {
+                            "items": [
+                                {
+                                    "fulfill": 9,
+                                    "reduction": 1,
+                                    "platform_subsidy": 0,
+                                    "agent_subsidy": 0
+                                },
+                                {
+                                    "fulfill": 13,
+                                    "reduction": 2,
+                                    "platform_subsidy": 0,
+                                    "agent_subsidy": 0
+                                }
+                            ],
+                            "goods_share": 0,
+                            "guide_url": ""
+                        },
+                        "is_period": 0,
+                        "is_week": 0,
+                        "red_activity": null,
+                        "red_status": 0,
+                        "use_start_at": 1757151664,
+                        "use_end_at": 1757151664,
+                        "money": 0,
+                        "scene": [
+                            1
+                        ],
+                        "is_show": 0,
+                        "is_all": 0,
+                        "platform_subsidy": 0,
+                        "agent_subsidy": 0,
+                        "goods_share": 1,
+                        "is_merchant": 0,
+                        "is_join": 0,
+                        "tag_id": 0,
+                        "merchant_desc": "",
+                        "merchant_article_id": 0,
+                        "article_id": 0,
+                        "use_num": 0,
+                        "limit_num_now": 0,
+                        "count": 0,
+                        "grant_money": 0,
+                        "distributor_uid": 0,
+                        "platform_subsidy_max": 0,
+                        "agent_subsidy_max": 0
+                    }
+                ],
+                "is_pick_up": 1,
+                "is_scheduled": 1,
+                "pick_up_address": "山西大学坞城校区令德二楼文化餐厅水吧",
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:00",
+                        "e": "20:00"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 1,
+                "complex_types": 138.6,
+                "store": {},
+                "m_capita": 12,
+                "m_unit": 11
+            },
+            {
+                "id": 236837,
+                "title": "【令二】20号阿利茄汁面",
+                "thumb": "image/20241025/f79bde35-4f34-481a-8fc1-8902a8ac3555.jpg",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 42,
+                "rate": 5,
+                "time": 45,
+                "dist": 552.47,
+                "open_status": 2,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 990335,
+                        "title": "土豆丝炒肉拌面",
+                        "thumb": "image/20250527/db4460cf-d075-4637-9ff6-3d0f91f239fe.jpg",
+                        "start_num": 1,
+                        "price": 13.9,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 13.9,
+                        "unit": ""
+                    },
+                    {
+                        "id": 986954,
+                        "title": "酸辣土豆丝拌面",
+                        "thumb": "image/20250412/11556c0e-61e8-4762-94d5-95565af49466.jpg",
+                        "start_num": 1,
+                        "price": 9,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 9,
+                        "unit": ""
+                    },
+                    {
+                        "id": 986953,
+                        "title": "辣椒炒肉拌面",
+                        "thumb": "image/20250412/4f2ab2d9-f2b1-4d04-9089-0b0c22a599f9.jpg",
+                        "start_num": 1,
+                        "price": 13.9,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 13.9,
+                        "unit": ""
+                    },
+                    {
+                        "id": 971277,
+                        "title": "爆香油泼面",
+                        "thumb": "image/20241027/f0113ddb-e4f3-4adc-9ec4-f8d63c15908b.png",
+                        "start_num": 1,
+                        "price": 8,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 8,
+                        "unit": ""
+                    },
+                    {
+                        "id": 971273,
+                        "title": "招牌茄汁面",
+                        "thumb": "image/20241027/962ee633-3b71-4a13-a11c-9a5cd1891257.png",
+                        "start_num": 1,
+                        "price": 11,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 11,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 1,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:00"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": 136.1,
+                "store": {},
+                "m_capita": 20,
+                "m_unit": 13
+            },
+            {
+                "id": 236770,
+                "title": "【令二】私茉制茶",
+                "thumb": "http://p0.meituan.net/business/c3feff6e5d0e824cda36569d2af134bb570952.png",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 27,
+                "rate": 5,
+                "time": 45,
+                "dist": 568.63,
+                "open_status": 2,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 968951,
+                        "title": "草莓多手摇酸奶",
+                        "thumb": "image/20241009/c2532de9-3dc9-46b5-97c8-1938ca5051be.jpg",
+                        "start_num": 1,
+                        "price": 8,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 8,
+                        "unit": ""
+                    },
+                    {
+                        "id": 968942,
+                        "title": "香柠葡萄冻冻",
+                        "thumb": "image/20241009/5a050c67-eeb5-46ce-8e1c-61a65309f968.jpg",
+                        "start_num": 1,
+                        "price": 8,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 8,
+                        "unit": ""
+                    },
+                    {
+                        "id": 968936,
+                        "title": "芒芒杨枝甘露",
+                        "thumb": "image/20241009/95b509e8-22af-444d-b3a0-9be4da8e3d07.jpg",
+                        "start_num": 1,
+                        "price": 12,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12,
+                        "unit": ""
+                    },
+                    {
+                        "id": 968928,
+                        "title": "翡翠青柚",
+                        "thumb": "image/20241009/9c330dc9-4137-47df-8cac-044f1585fa6c.jpg",
+                        "start_num": 1,
+                        "price": 5,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 5,
+                        "unit": ""
+                    },
+                    {
+                        "id": 968925,
+                        "title": "红豆布丁奶茶",
+                        "thumb": "image/20241009/02f7ae31-91e9-4cbb-b142-b84baa987244.jpg",
+                        "start_num": 1,
+                        "price": 7,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 7,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 1,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": 131.1,
+                "store": {},
+                "m_capita": 12,
+                "m_unit": 11
+            },
+            {
+                "id": 236848,
+                "title": "【令二】2号丑娘舅螺蛳粉 五谷渔粉",
+                "thumb": "image/20241024/ab8a2083-3523-439e-8bef-baa92e25864e.jpg",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 8,
+                "rate": 5,
+                "time": 45,
+                "dist": 554.49,
+                "open_status": 2,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 992785,
+                        "title": "番茄渔粉",
+                        "thumb": "image/20230920/31e2e036-2e71-4556-9f94-f478499304ee.jpg",
+                        "start_num": 1,
+                        "price": 10,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 10,
+                        "unit": ""
+                    },
+                    {
+                        "id": 992784,
+                        "title": "原味渔粉",
+                        "thumb": "image/20231114/9cce6f85-348c-4f31-ac64-8bd3fe8fac44.jpg",
+                        "start_num": 1,
+                        "price": 9,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 9,
+                        "unit": ""
+                    },
+                    {
+                        "id": 971453,
+                        "title": "招牌螺蛳粉+葱花饼",
+                        "thumb": "image/20230920/2db0017d-0902-4fce-b0eb-624892dd80a2.jpg",
+                        "start_num": 1,
+                        "price": 11.5,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 11.5,
+                        "unit": ""
+                    },
+                    {
+                        "id": 971443,
+                        "title": "招牌原味螺蛳粉",
+                        "thumb": "image/20230920/2db0017d-0902-4fce-b0eb-624892dd80a2.jpg",
+                        "start_num": 1,
+                        "price": 9,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 9,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 1,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": 118.6,
+                "store": {},
+                "m_capita": 13,
+                "m_unit": 12
+            },
+            {
+                "id": 236771,
+                "title": "【令二】6号椒上瘾水煮肉片",
+                "thumb": "image/20241010/5575d186-97b1-48b1-bf89-b71d15f0639b.jpg",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 0,
+                "rate": 5,
+                "time": 45,
+                "dist": 562.57,
+                "open_status": 1,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "20:00"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 968881,
+                        "title": "原味麻酱拌粉",
+                        "thumb": "image/20240907/818b134b-eae7-4e3e-85f6-e302e79eecae.jpg",
+                        "start_num": 1,
+                        "price": 9,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 9,
+                        "unit": ""
+                    },
+                    {
+                        "id": 968878,
+                        "title": "麻辣烫粉(面)",
+                        "thumb": "image/20230916/3ff74b56-4529-4c05-bb07-92c01105d215.jpg",
+                        "start_num": 1,
+                        "price": 9,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 9,
+                        "unit": ""
+                    },
+                    {
+                        "id": 968869,
+                        "title": "水煮肉片",
+                        "thumb": "image/20230914/754c4de2-b07e-4d5b-b093-552207200773.jpg",
+                        "start_num": 1,
+                        "price": 14,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 14,
+                        "unit": ""
+                    },
+                    {
+                        "id": 968868,
+                        "title": "水煮鱼片",
+                        "thumb": "image/20230903/d8133959-5d06-4973-b2ae-12c0f9b78893.jpg",
+                        "start_num": 1,
+                        "price": 14,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 14,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 2,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "20:00"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": -6882.4,
+                "store": {}
+            },
+            {
+                "id": 236772,
+                "title": "【令二】6号小街胡同牛杂面",
+                "thumb": "image/20241010/c3dc6596-29e4-41ac-94cb-a3e570cde41a.jpg",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 0,
+                "rate": 5,
+                "time": 45,
+                "dist": 555.5,
+                "open_status": 1,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "13:30"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 968908,
+                        "title": "麻辣燃面",
+                        "thumb": "image/20231114/38eb6358-8857-4ef1-9f91-ecec50f8c9e9.jpg",
+                        "start_num": 1,
+                        "price": 12,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12,
+                        "unit": ""
+                    },
+                    {
+                        "id": 968907,
+                        "title": "肉沫杂酱拌面",
+                        "thumb": "image/20231011/59527a1d-e363-4a6b-a6c4-ab370201f49f.jpg",
+                        "start_num": 1,
+                        "price": 11,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 11,
+                        "unit": ""
+                    },
+                    {
+                        "id": 968905,
+                        "title": "酸甜麻辣鸡丝拌面",
+                        "thumb": "image/20231002/9375c677-22d3-4d95-84fb-98a1e351e4a1.jpg",
+                        "start_num": 1,
+                        "price": 12,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12,
+                        "unit": ""
+                    },
+                    {
+                        "id": 968893,
+                        "title": "牛肉面",
+                        "thumb": "image/20231114/c7b2daaf-9370-4100-bf6b-df7742878ecd.jpg",
+                        "start_num": 1,
+                        "price": 15,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 15,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 2,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:00",
+                        "e": "13:30"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": -6882.4,
+                "store": {}
+            },
+            {
+                "id": 236836,
+                "title": "【令二】17号牛掌柜盖码饭，懒人焖饭",
+                "thumb": "image/20241023/518a67bb-06ca-45cf-a0e8-ba2d25fea983.png",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 0,
+                "rate": 5,
+                "time": 45,
+                "dist": 560.55,
+                "open_status": 1,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 980629,
+                        "title": "番茄牛肉饭",
+                        "thumb": "image/20250305/de2505f1-b879-4d3d-8244-c5ac86d1af5c.jpg",
+                        "start_num": 1,
+                        "price": 15,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 15,
+                        "unit": ""
+                    },
+                    {
+                        "id": 978552,
+                        "title": "肉沫茄子饭",
+                        "thumb": "image/20250215/49613393-d457-42d0-8093-d68910407b08.jpeg",
+                        "start_num": 1,
+                        "price": 10,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 10,
+                        "unit": ""
+                    },
+                    {
+                        "id": 976529,
+                        "title": "叉烧海苔鸡拌饭",
+                        "thumb": "image/20241119/d8c66c0d-8b51-47b6-9932-b0bd99ba57da.jpg",
+                        "start_num": 1,
+                        "price": 13,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 13,
+                        "unit": ""
+                    },
+                    {
+                        "id": 976528,
+                        "title": "可乐鸡块饭",
+                        "thumb": "image/20241119/83d4841c-d36c-4f4d-a840-c11e6e51c1c6.jpg",
+                        "start_num": 1,
+                        "price": 13,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 13,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 2,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:00"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": -6882.4,
+                "store": {}
+            },
+            {
+                "id": 237027,
+                "title": "【令二】6号瓦香鸡米饭",
+                "thumb": "image/20250103/1fda6691-c816-4f44-8ee8-2f760aad2b49.jpg",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 0,
+                "rate": 5,
+                "time": 45,
+                "dist": 565.6,
+                "open_status": 1,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:20",
+                        "e": "13:30"
+                    },
+                    {
+                        "s": "17:15",
+                        "e": "19:30"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 978449,
+                        "title": "瓦香小酥肉+土豆+米饭",
+                        "thumb": "image/20230902/8bcad902-1c2a-48ec-9301-3c8106d182e6.png",
+                        "start_num": 1,
+                        "price": 14,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 14,
+                        "unit": ""
+                    },
+                    {
+                        "id": 978444,
+                        "title": "瓦香豆腐+土豆+米饭",
+                        "thumb": "image/20230902/918b230e-5559-43ee-8bb9-6a9b04e97181.png",
+                        "start_num": 1,
+                        "price": 11,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 11,
+                        "unit": ""
+                    },
+                    {
+                        "id": 978440,
+                        "title": "瓦香杏鲍菇+土豆+米饭",
+                        "thumb": "image/20230902/b51d8d5c-3f2e-46b0-8a0a-65ad1c53ae55.png",
+                        "start_num": 1,
+                        "price": 11,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 11,
+                        "unit": ""
+                    },
+                    {
+                        "id": 978432,
+                        "title": "瓦香土豆+米饭",
+                        "thumb": "image/20230902/4272c53b-49fd-4dac-9355-1c3ff4511c8e.png",
+                        "start_num": 1,
+                        "price": 9,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 9,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 2,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:20",
+                        "e": "13:30"
+                    },
+                    {
+                        "s": "17:15",
+                        "e": "19:30"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": -6882.4,
+                "store": {}
+            },
+            {
+                "id": 237115,
+                "title": "【令二】5号晋菜味道",
+                "thumb": "image/20250314/933846c5-4eec-42ea-9fae-16d5dc4e5871.jpg",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 0,
+                "rate": 5,
+                "time": 45,
+                "dist": 550.45,
+                "open_status": 1,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:00"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 982773,
+                        "title": "土豆烧鸡拌饭",
+                        "thumb": "image/20230914/d1761ed7-c9c2-478d-8ad1-7fee9b6c39b6.jpg",
+                        "start_num": 1,
+                        "price": 9.8,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 9.8,
+                        "unit": ""
+                    },
+                    {
+                        "id": 982772,
+                        "title": "小酥肉拌饭",
+                        "thumb": "image/20230902/8bcad902-1c2a-48ec-9301-3c8106d182e6.png",
+                        "start_num": 1,
+                        "price": 9.8,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 9.8,
+                        "unit": ""
+                    },
+                    {
+                        "id": 982770,
+                        "title": "鸡排饭",
+                        "thumb": "image/20230921/1d5364ef-c83e-435b-8117-71a29726f4e2.jpg",
+                        "start_num": 1,
+                        "price": 9.8,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 9.8,
+                        "unit": ""
+                    },
+                    {
+                        "id": 982769,
+                        "title": "鸡腿饭",
+                        "thumb": "image/20230921/4ad65f8c-b4bd-4d26-8bf9-f713b77ac9bb.jpg",
+                        "start_num": 1,
+                        "price": 9.8,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 9.8,
+                        "unit": ""
+                    },
+                    {
+                        "id": 982767,
+                        "title": "摇滚炒鸡饭",
+                        "thumb": "image/20241103/bcf291f4-9613-4a6d-9ec9-8298381f3f1b.jpg",
+                        "start_num": 1,
+                        "price": 9.8,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 9.8,
+                        "unit": ""
+                    }
+                ],
+                "package_price": 1,
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 2,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:00"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": -6882.4,
+                "store": {}
+            },
+            {
+                "id": 237135,
+                "title": "（令二）1号金日升烤盘饭",
+                "thumb": "image/20250312/7e8d04bc-a92b-4bcf-80cb-8f09f352291a.jpg",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 0,
+                "rate": 5,
+                "time": 45,
+                "dist": 557.52,
+                "open_status": 1,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:00"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 987652,
+                        "title": "酸辣土豆丝",
+                        "thumb": "image/20250418/e04366c2-a82e-44d2-beb9-ec3ad10a044e.png",
+                        "start_num": 1,
+                        "price": 0,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 0,
+                        "unit": ""
+                    },
+                    {
+                        "id": 982658,
+                        "title": "烤盘饭",
+                        "thumb": "https://suweixiaoyuan-1307922081.cos.ap-shanghai.myqcloud.com/image/20241124/7a3adcda-fd04-4b29-b7f7-dc783ac459c9.jpg?imageMogr2/thumbnail/800x800\u003e/quality/100",
+                        "start_num": 1,
+                        "price": 12.8,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12.8,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 2,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:00"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": -6882.4,
+                "store": {}
+            },
+            {
+                "id": 237343,
+                "title": "【令二】17号焦咔咔六味鸡",
+                "thumb": "image/20250404/7ce2911d-4472-4eb9-9cab-e56f31ed5c5f.png",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 0,
+                "rate": 5,
+                "time": 45,
+                "dist": 565.6,
+                "open_status": 1,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:20"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 985034,
+                        "title": "咖喱鸡肉饭",
+                        "thumb": "image/20240529/469dab61-d320-46ad-88a2-4c5741584726.png",
+                        "start_num": 1,
+                        "price": 13.8,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 13.8,
+                        "unit": ""
+                    },
+                    {
+                        "id": 985033,
+                        "title": "香辣味鸡饭",
+                        "thumb": "image/20241111/a2fd18e9-22bd-49e2-b6d5-32c0a97856bf.png",
+                        "start_num": 1,
+                        "price": 12.8,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12.8,
+                        "unit": ""
+                    },
+                    {
+                        "id": 985032,
+                        "title": "奥尔良鸡米饭",
+                        "thumb": "image/20230919/5d09504a-fa57-45a5-9c9c-ad5f0246ac0d.jpg",
+                        "start_num": 1,
+                        "price": 12.8,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12.8,
+                        "unit": ""
+                    },
+                    {
+                        "id": 985031,
+                        "title": "蜜汁鸡丁饭",
+                        "thumb": "image/20240922/c8b9369c-b0fa-44e4-a211-f5c9c99dfc32.jpg",
+                        "start_num": 1,
+                        "price": 11.8,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 11.8,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 2,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:20"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": -6882.4,
+                "store": {}
+            },
+            {
+                "id": 237344,
+                "title": "【令二】17号觅肴热卤拌饭",
+                "thumb": "image/20250404/f5af776a-45fb-4ba6-94d2-a30bbc9c50fa.png",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 0,
+                "rate": 5,
+                "time": 45,
+                "dist": 631.25,
+                "open_status": 1,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "17:30"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 985045,
+                        "title": "招牌鸭腿饭",
+                        "thumb": "image/20241021/4d508ced-23f3-4f66-ade6-bc64031ed88d.png",
+                        "start_num": 1,
+                        "price": 13,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 13,
+                        "unit": ""
+                    },
+                    {
+                        "id": 985044,
+                        "title": "招牌卤肉饭 ",
+                        "thumb": "image/20230903/d429aa18-6cdb-4bce-aa9c-45b906b31ff3.png",
+                        "start_num": 1,
+                        "price": 12,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12,
+                        "unit": ""
+                    },
+                    {
+                        "id": 985042,
+                        "title": "热卤狮子头饭",
+                        "thumb": "image/20230921/65103f9d-ba72-4504-b681-9d92d59ffda9.jpg",
+                        "start_num": 1,
+                        "price": 12,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12,
+                        "unit": ""
+                    },
+                    {
+                        "id": 985040,
+                        "title": "热卤酥肉饭",
+                        "thumb": "image/20231002/01767ad5-eb45-4799-b465-6d556677626e.jpg",
+                        "start_num": 1,
+                        "price": 12,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 2,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:30",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "17:30"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": -6882.4,
+                "store": {}
+            },
+            {
+                "id": 236797,
+                "title": "【令二】11号炖肉小哥",
+                "thumb": "image/20241013/4e4fd825-0825-4fff-9295-15c03e9eedc4.jpg",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 0,
+                "rate": 5,
+                "time": 45,
+                "dist": 556.51,
+                "open_status": 1,
+                "score": 5,
+                "work_time": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 969927,
+                        "title": "可乐翅根",
+                        "thumb": "image/20231011/004d2fba-b855-48a6-a2e7-2a2f051ab935.jpg",
+                        "start_num": 1,
+                        "price": 12,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12,
+                        "unit": ""
+                    },
+                    {
+                        "id": 969923,
+                        "title": "菠萝咕咾肉饭",
+                        "thumb": "image/20230917/e1a046d4-7a90-4179-be45-785bb8657fd7.jpg",
+                        "start_num": 1,
+                        "price": 13,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 13,
+                        "unit": ""
+                    },
+                    {
+                        "id": 969922,
+                        "title": "湖南小炒肉",
+                        "thumb": "image/20230914/996a691c-7dd7-4f17-abc6-ecf6c586fd0d.jpg",
+                        "start_num": 1,
+                        "price": 13,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 13,
+                        "unit": ""
+                    },
+                    {
+                        "id": 969919,
+                        "title": "排骨米饭",
+                        "thumb": "image/20230916/b3f2661f-3b88-47e0-855b-8bff359d6294.jpg",
+                        "start_num": 1,
+                        "price": 15,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 15,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "merchant_score": 5,
+                "goods_score": 5,
+                "is_pick_up": 2,
+                "is_scheduled": 2,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:00",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": -6885.4,
+                "store": {}
+            },
+            {
+                "id": 237448,
+                "title": "【令二】18号老大同刀削面",
+                "thumb": "image/20230225/6f478e58-d3fc-4b3a-b5b6-c14fa76234e5.jpg",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 0,
+                "rate": 0,
+                "time": 45,
+                "dist": 587.82,
+                "open_status": 1,
+                "work_time": [
+                    {
+                        "s": "10:30",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 992721,
+                        "title": "火腿炒蛋浇面",
+                        "thumb": "image/20240906/7917a014-3df7-418c-ab7e-227e8d146a89.jpg",
+                        "start_num": 1,
+                        "price": 12,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12,
+                        "unit": ""
+                    },
+                    {
+                        "id": 992720,
+                        "title": "鱼香肉丝浇面",
+                        "thumb": "image/20240826/fda1a7c5-c781-4827-a16f-eb723d86039c.jpg",
+                        "start_num": 1,
+                        "price": 13,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 13,
+                        "unit": ""
+                    },
+                    {
+                        "id": 992719,
+                        "title": "辣椒炒肉浇面",
+                        "thumb": "image/20231024/2d75145a-bfe0-4d41-8565-54432dc1e247.jpg",
+                        "start_num": 1,
+                        "price": 14,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 14,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "is_pick_up": 0,
+                "is_scheduled": 2,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:30",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": -6925.4,
+                "store": {}
+            },
+            {
+                "id": 237449,
+                "title": "【令二】6号好味道面馆",
+                "thumb": "image/20250905/f5019d13-a5da-4f87-a977-fac7427fcc1f.png",
+                "start_price": 8,
+                "delivery_price": 1.2,
+                "m_sales": 0,
+                "rate": 0,
+                "time": 45,
+                "dist": 581.76,
+                "open_status": 1,
+                "work_time": [
+                    {
+                        "s": "10:30",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "goods_recommend": [
+                    {
+                        "id": 992738,
+                        "title": "尖椒肉丝面",
+                        "thumb": "image/20230910/0649cad8-90ef-4b89-9dbc-9079201dd246.jpg",
+                        "start_num": 1,
+                        "price": 12,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 12,
+                        "unit": ""
+                    },
+                    {
+                        "id": 992734,
+                        "title": "油泼面",
+                        "thumb": "image/20230904/a310b431-3f53-450b-88c6-5ad119dbff57.jpg",
+                        "start_num": 1,
+                        "price": 8,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 8,
+                        "unit": ""
+                    },
+                    {
+                        "id": 992730,
+                        "title": "浇头酸菜面",
+                        "thumb": "image/20230903/78d4838f-7652-4cf9-96e2-bd2d94207708.jpg",
+                        "start_num": 1,
+                        "price": 9,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 9,
+                        "unit": ""
+                    },
+                    {
+                        "id": 992727,
+                        "title": "招牌川香 鸡丝拌面",
+                        "thumb": "image/20230903/aaf48dce-427a-4918-991f-211329674ec9.jpg",
+                        "start_num": 1,
+                        "price": 10,
+                        "unit_num": 1,
+                        "is_type": 0,
+                        "goods_activity": false,
+                        "original_price": 10,
+                        "unit": ""
+                    }
+                ],
+                "delivery_method": 1,
+                "is_pick_up": 0,
+                "is_scheduled": 2,
+                "delivery_type": 5,
+                "delivery_work_at": [
+                    {
+                        "s": "10:30",
+                        "e": "13:00"
+                    },
+                    {
+                        "s": "17:00",
+                        "e": "19:30"
+                    }
+                ],
+                "seller_said": "",
+                "ban_status": 2,
+                "is_takeout": 1,
+                "area_id": 34,
+                "free_status": 2,
+                "free_delivery_fee": 0,
+                "free_pay_platform": 0,
+                "tag": {
+                    "id": 0,
+                    "title": "",
+                    "sort": 0,
+                    "bg_color": "",
+                    "color": "",
+                    "effective_time": 0,
+                    "score": 0,
+                    "types": 0
+                },
+                "scheduled_min_day": 0,
+                "scheduled_max_day": 1,
+                "pick_up_start": 0,
+                "is_eat_in": 2,
+                "complex_types": -6925.4,
+                "store": {}
+            }
+        ],
+        "distance": 0,
+        "skip": 15,
+        "open_status": 1,
+        "recommend": null,
+        "finish": false
+    }
+}
