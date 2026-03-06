@@ -1,0 +1,63 @@
+.nav {
+    width: 100%;
+  }
+  
+  .row {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+    padding: 12px 16px;
+  }
+  
+  .itemBtn {
+    appearance: none;
+    background: transparent;
+    border: 1px solid currentColor;
+    border-radius: 8px;
+    padding: 8px 12px;
+    font: inherit;
+    line-height: 1;
+    cursor: pointer;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+  }
+  
+  .menu {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    min-width: 220px;
+    margin: 0;
+    padding: 8px;
+    list-style: none;
+    border: 1px solid currentColor;
+    border-radius: 10px;
+    background: transparent;
+    backdrop-filter: none;
+  
+    display: none;
+    flex-direction: column;
+    gap: 6px;
+  }
+  
+  .menu[data-open="true"] {
+    display: flex;
+  }
+  
+  .menuItem {
+  width: 100%;
+  text-align: left;
+    padding: 8px 10px;
+    border-radius: 8px;
+    border: 1px dashed currentColor;
+    cursor: default;
+    user-select: none;
+  background: transparent;
+  }
+  
+  

@@ -1,0 +1,30 @@
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Logs
+*.log
+
+# Environment files (avoid committing secrets)
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.sample
+!**/.env.template
+
+# Node / Next.js
+**/node_modules/
+**/.next/
+**/out/
+**/dist/
+**/coverage/
+**/.turbo/
+
+# Java / Maven
+**/target/
