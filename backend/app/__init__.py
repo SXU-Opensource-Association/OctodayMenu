@@ -1,0 +1,1 @@
+"""SXUWhatEat backend package."""

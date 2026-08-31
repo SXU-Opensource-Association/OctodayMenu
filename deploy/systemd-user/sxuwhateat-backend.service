@@ -1,0 +1,17 @@
+[Unit]
+Description=SXUWhatEat FastAPI backend
+After=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/xiaohua/apps/SXUWhatEat/backend
+EnvironmentFile=/home/xiaohua/apps/SXUWhatEat/backend/.env
+ExecStart=/home/xiaohua/apps/SXUWhatEat/backend/.venv/bin/uvicorn app.main:app --host 127.0.0.1 --port 8000 --workers 1
+Restart=on-failure
+RestartSec=5
+UMask=0077
+StandardOutput=append:/home/xiaohua/apps/SXUWhatEat/logs/backend.log
+StandardError=append:/home/xiaohua/apps/SXUWhatEat/logs/backend.log
+
+[Install]
+WantedBy=default.target

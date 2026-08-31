@@ -60,7 +60,7 @@ development 和 production 环境必须完整配置 SMTP，否则发送接口返
 
 现有 `POST /api/auth/email-verifications` 路径保持不变：
 
-- 成功：`201 {"status": "sent", "dev_code": null}`。
+- 成功：`201 {"status": "sent"}`，响应中不包含 `dev_code` 字段。
 - test 环境成功：响应允许包含 `dev_code`。
 - SMTP 未配置或发送失败：通用 `503`，不返回底层异常和敏感配置。
 - 触发限流：通用 `429`，分别说明一分钟或一小时限制。

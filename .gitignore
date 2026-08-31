@@ -1,0 +1,31 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+backend/.venv/
+backend/uploads/
+*.db
+*.sqlite
+*.sqlite3
+
+# Node / Next.js
+node_modules/
+.next/
+.next-dev/
+out/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Local brainstorming/browser artifacts
+.superpowers/
+tmp/

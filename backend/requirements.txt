@@ -1,0 +1,11 @@
+alembic==1.14.0
+fastapi==0.115.6
+httpx==0.28.1
+openpyxl==3.1.5
+cryptography==48.0.1
+pymysql[rsa]==1.1.1
+pytest==8.3.4
+python-multipart==0.0.20
+python-dotenv==1.0.1
+sqlalchemy==2.0.36
+uvicorn[standard]==0.34.0

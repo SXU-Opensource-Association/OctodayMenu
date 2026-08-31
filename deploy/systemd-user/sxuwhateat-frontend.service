@@ -1,0 +1,20 @@
+[Unit]
+Description=SXUWhatEat Next.js frontend
+After=network-online.target sxuwhateat-backend.service
+Requires=sxuwhateat-backend.service
+
+[Service]
+Type=simple
+WorkingDirectory=/home/xiaohua/apps/SXUWhatEat/frontend
+Environment=NODE_ENV=production
+Environment=PATH=/home/xiaohua/.local/node/bin:/usr/local/bin:/usr/bin:/bin
+Environment=BACKEND_ORIGIN=http://127.0.0.1:8000
+ExecStart=/home/xiaohua/.local/node/bin/node /home/xiaohua/apps/SXUWhatEat/frontend/node_modules/next/dist/bin/next start --hostname 0.0.0.0 --port 8080
+Restart=on-failure
+RestartSec=5
+UMask=0077
+StandardOutput=append:/home/xiaohua/apps/SXUWhatEat/logs/frontend.log
+StandardError=append:/home/xiaohua/apps/SXUWhatEat/logs/frontend.log
+
+[Install]
+WantedBy=default.target
